@@ -21,14 +21,14 @@
   <br />
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/yaala-rukunuddin-226a0926b/">
+    <a href="https://www.linkedin.com/in/yaala-rukunuddin-226a0926b/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:yaalarukunuddin@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://yaalaruknuddin.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-121110?style=for-the-badge&logo=vercel&logoColor=F8F5EE" alt="Portfolio" />
+    <a href="https://yaalaruknuddin.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-121110?style=for-the-badge&logo=vercel&logoColor=F8F5EE" alt="Portfolio" />
     </a>
   </p>
 
@@ -59,7 +59,7 @@ philosophy:
 
 ---
 
-### ⚡ **CORE COMPETENCIES & STACK**
+### ⚡ **CORE COMPETENCIES & TECH STACK**
 
 <table>
   <tr>
@@ -78,7 +78,7 @@ philosophy:
       <ul>
         <li><b>Frontend:</b> TypeScript, JavaScript, HTML5, CSS3</li>
         <li><b>Frameworks:</b> Next.js, React, Tailwind CSS</li>
-        <li><b>Animation:</b> Framer Motion, GSAP</li>
+        <li><b>Animation:</b> Framer Motion, GSAP, Lenis</li>
         <li><b>Languages:</b> Python, Java</li>
         <li><b>Web Ops:</b> Website Management & Performance</li>
       </ul>
@@ -120,12 +120,11 @@ philosophy:
 
 ---
 
-### 📊 **GITHUB STATS & ACTIVITY**
+### 🚀 **FEATURED HIGHLIGHTS & LIVE WORK**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121110&title_color=C4A47C&icon_color=C4A47C&text_color=A8A29E" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=121110&title_color=C4A47C&text_color=A8A29E" alt="Top Languages" height="150" />
-</div>
+- 🌟 **[Yaala Portfolio](https://github.com/YAALA-RUKNUDDIN/yaala)** — Personal editorial portfolio website built with Next.js 15, TypeScript, Tailwind CSS, Framer Motion, and GSAP.
+- 🏢 **Q-graphy** — Working across UI/UX, responsive web, brand creative systems, and prompt engineering pipelines.
+- 💡 **AI Creative Experiments** — Systematic prompt architectures for reproducible generative multi-modal outputs.
 
 <br />
 
