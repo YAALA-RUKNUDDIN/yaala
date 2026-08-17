@@ -27,7 +27,7 @@
     <a href="mailto:yaalarukunuddin@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://yaala.vercel.app">
+    <a href="https://yaalaruknuddin.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-121110?style=for-the-badge&logo=vercel&logoColor=F8F5EE" alt="Portfolio" />
     </a>
   </p>
