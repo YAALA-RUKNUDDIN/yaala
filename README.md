@@ -1,171 +1,139 @@
-<div align="center">
+# Yaala — Portfolio
 
-  <br />
-  
-  ```
-  ██╗   ██╗ █████╗  █████╗ ██╗      █████╗ 
-  ╚██╗ ██╔╝██╔══██╗██╔══██╗██║     ██╔══██╗
-   ╚████╔╝ ███████║███████║██║     ███████║
-    ╚██╔╝  ██╔══██║██╔══██║██║     ██╔══██║
-     ██║   ██║  ██║██║  ██║███████╗██║  ██║
-     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-  ```
-
-  ### **YAALA — PERSONAL PORTFOLIO & DIGITAL PRODUCT SHOWCASE**
-  *Designer × Developer × Digital Product Builder × AI Creative*
-
-  <br />
-
-  <p align="center">
-    <a href="https://nextjs.org/">
-      <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    </a>
-    <a href="https://www.typescriptlang.org/">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </a>
-    <a href="https://www.framer.com/motion/">
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-    </a>
-    <a href="https://vercel.com/">
-      <img src="https://img.shields.io/badge/Vercel_Deployed-121110?style=for-the-badge&logo=vercel&logoColor=F8F5EE" alt="Vercel" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/yaala-rukunuddin-226a0926b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:yaalarukunuddin@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/YAALA-RUKNUDDIN">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-</div>
-
-<br />
+> Personal portfolio and creative engineering showcase.  
+> Designer × Developer × Digital Product Builder × AI Creative
 
 ---
 
-## ✦ Overview
+## Overview
 
-This is the personal portfolio website of **Yaala** — an editorial, typography-first digital experience engineered to showcase multi-disciplinary capabilities across digital product design, frontend engineering, real-world industry experience at **Q-graphy**, and structured generative AI workflows.
-
-> **Design Philosophy**: *“I design things that people can actually use.”*
+This repository contains the source code for the personal portfolio website of Yaala. The project is an editorial, typography-driven web application built to showcase work across digital product design, frontend engineering, real-world industry experience at Q-graphy, and structured artificial intelligence workflows.
 
 ---
 
-## ⚡ Key Highlights & Architecture
+## Key Work & Featured Case Studies
 
-- 🏛️ **Editorial Design System**: Custom warm cream (`#F8F5EE`) and deep charcoal (`#121110`) color palette with Google Fonts (`Syne`, `Inter`, `JetBrains Mono`, `Instrument Serif`).
-- 📐 **NOVA Brand Identity Case Study**: Real-world brand identity & geometric logo system designed for the **AITM CSE Student Forum (AIML & Data Science)** with interactive grid / mark switcher and high-res modal.
-- 🏢 **Q-graphy Professional Experience**: Dedicated timeline and capability matrix documenting real-world internship work in UI/UX, responsive web, brand systems, and AI workflows.
-- 🤖 **Structured AI Creative Workbench**: Interactive prompt architecture blueprint (`/context`, `/objective`, `/style`, `/constraints`, `/output`) with copyable specifications.
-- 🎯 **3D Kinetic Tilt & Physics Cursor**: Fluid Lenis momentum scrolling, spring-physics custom cursor, and responsive mouse-tracking 3D card tilt.
-- 📱 **100% Mobile Responsive**: Fluid clamp typography, zero horizontal clipping, and optimized touch targets across all device breakpoints.
+### 1. NOVA — Brand Identity & Logo Design
+- **Context:** Official student forum of Anjuman Institute of Technology and Management (AITM) under the Department of Computer Science & Engineering (AIML & Data Science branch).
+- **Scope:** Isometric logomark geometry, orbital data nodes, visual identity system, and vector asset specifications.
+- **Deliverables:** Logo Design, Geometric Grid Specifications, Visual Identity Guidelines, Vector Assets.
 
----
+### 2. Q-graphy — Professional Experience
+- **Role:** Design & Digital Product Intern (Nov 2025 — Present).
+- **Scope:** Multi-disciplinary digital product lifecycles, UI/UX systems, frontend development, brand assets, and structured prompt engineering pipelines.
 
-## 🛠️ Tech Stack
-
-| Domain | Technologies & Libraries |
-| :--- | :--- |
-| **Framework** | [Next.js 15 (App Router)](https://nextjs.org/) |
-| **Language** | [TypeScript](https://www.typescriptlang.org/) |
-| **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) |
-| **Animation** | [Framer Motion](https://www.framer.com/motion/) & [GSAP](https://greensock.com/gsap/) |
-| **Smooth Scroll** | [@studio-freight/lenis](https://lenis.darkroom.engineering/) |
-| **Icons** | [Lucide React](https://lucide.dev/) + Custom Brand SVGs |
-| **Deployment** | [Vercel](https://vercel.com/) |
+### 3. AI Creative Workflows & Prompt Architecture
+- **Scope:** Structured prompt engineering methodologies, parameter token modeling (`/context`, `/objective`, `/style`, `/constraints`, `/output`), and generative visual pipeline integration.
 
 ---
 
-## 📁 Repository Structure
+## Tech Stack
 
-```tree
+### Core Framework & Language
+- **Framework:** Next.js 15 (App Router, Turbopack)
+- **Language:** TypeScript
+- **Runtime:** Node.js
+
+### Styling & Motion
+- **Styling:** Tailwind CSS v4
+- **Animation & Physics:** Framer Motion, GSAP
+- **Smooth Scrolling:** Lenis (@studio-freight/lenis)
+- **Icons:** Lucide React, Custom SVG Vectors
+
+### Deployment & Hosting
+- **Platform:** Vercel
+
+---
+
+## Project Structure
+
+```text
 yaala-portfolio/
 ├── public/
 │   ├── images/
-│   │   ├── nova/                 # NOVA logomark & grid construction assets
+│   │   ├── nova/                 # NOVA logomark and grid construction assets
 │   │   │   ├── nova-grid.png
 │   │   │   └── nova-mark.png
-│   │   ├── profile.png           # Super-sampled high-res focal portrait
-│   │   ├── logo-mark-white.png   # Transparent YA monogram marks
+│   │   ├── profile.png           # High-resolution portrait
+│   │   ├── logo-mark-white.png   # YA monogram assets
 │   │   └── logo-wordmark.png
 │   └── favicon.ico
 ├── src/
 │   ├── app/
-│   │   ├── globals.css           # Design tokens, typography variables & noise overlay
-│   │   ├── layout.tsx            # Font injection & root metadata
-│   │   └── page.tsx              # Assembled page sections
+│   │   ├── globals.css           # Design tokens, typography definitions
+│   │   ├── layout.tsx            # Root layout and metadata configuration
+│   │   └── page.tsx              # Main application page
 │   ├── components/
-│   │   ├── Hero.tsx              # Fluid editorial headline & CTAs
+│   │   ├── Hero.tsx              # Hero headline and primary actions
 │   │   ├── HeroImage.tsx         # 3D interactive tilt canvas
-│   │   ├── Introduction.tsx      # Core identity statement & perspective pills
-│   │   ├── DesignPhilosophy.tsx  # 4 fundamental pillars
-│   │   ├── FeaturedWork.tsx      # Category tabs & case studies grid
-│   │   ├── ProjectCard.tsx       # Interactive card with artwork switcher & modal
-│   │   ├── QgraphyExperience.tsx # Real-world internship timeline & artifacts
-│   │   ├── ProfileVisual.tsx     # Monogram brand seal showcase
-│   │   ├── AISection.tsx         # Generative AI narrative
-│   │   ├── AIWorkflow.tsx        # Interactive prompt parameter terminal
-│   │   ├── Capabilities.tsx      # 4-quadrant interactive discipline switcher
-│   │   ├── ProcessSection.tsx    # 6-stage product methodology
-│   │   ├── Marquee.tsx           # Infinite kinetic typography ticker
-│   │   ├── AboutSection.tsx      # Editorial brand manifesto & metadata
-│   │   ├── ContactSection.tsx    # Magnetic CTA footer section
-│   │   ├── Navbar.tsx            # Sticky blur navigation
-│   │   ├── MobileMenu.tsx        # Fullscreen responsive navigation drawer
-│   │   ├── CustomCursor.tsx      # Physics follower
-│   │   └── SmoothScroll.tsx      # Lenis smooth scroll provider
+│   │   ├── Introduction.tsx      # Core identity and perspective statements
+│   │   ├── DesignPhilosophy.tsx  # Philosophy pillars
+│   │   ├── FeaturedWork.tsx      # Filterable case study catalog
+│   │   ├── ProjectCard.tsx       # Case study card with artwork modal
+│   │   ├── QgraphyExperience.tsx # Internship overview and timeline
+│   │   ├── ProfileVisual.tsx     # Monogram identity showcase
+│   │   ├── AISection.tsx         # AI methodology overview
+│   │   ├── AIWorkflow.tsx        # Interactive prompt architecture terminal
+│   │   ├── Capabilities.tsx      # Core discipline showcase
+│   │   ├── ProcessSection.tsx    # Product delivery lifecycle
+│   │   ├── Marquee.tsx           # Kinetic typography ticker
+│   │   ├── AboutSection.tsx      # Background and structured metadata
+│   │   ├── ContactSection.tsx    # Contact actions
+│   │   ├── Navbar.tsx            # Sticky navigation bar
+│   │   ├── MobileMenu.tsx        # Responsive navigation drawer
+│   │   ├── CustomCursor.tsx      # Spring-physics follower
+│   │   └── SmoothScroll.tsx      # Momentum scrolling provider
 │   └── data/
-│       └── projects.ts           # Centralized modular data store
+│       └── projects.ts           # Centralized modular content store
 ├── package.json
 └── tsconfig.json
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YAALA-RUKNUDDIN/yaala.git
-cd yaala
-```
+### Prerequisites
+- Node.js 18.17 or later
+- npm or yarn
 
-### 2. Install dependencies
-```bash
-npm install
-```
+### Installation
 
-### 3. Run development server
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YAALA-RUKNUDDIN/yaala.git
+   cd yaala
+   ```
 
-### 4. Build for production
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the local development server:
+   ```bash
+   npm run dev
+   ```
+   The site will be available at `http://localhost:3000`.
+
+### Production Build
+
+To build the static production bundle:
 ```bash
 npm run build
 ```
 
 ---
 
-## 📬 Contact & Connect
+## Contact
 
-- **Portfolio**: [yaala.vercel.app](https://yaala.vercel.app)
-- **LinkedIn**: [linkedin.com/in/yaala-rukunuddin-226a0926b](https://www.linkedin.com/in/yaala-rukunuddin-226a0926b/)
-- **Email**: [yaalarukunuddin@gmail.com](mailto:yaalarukunuddin@gmail.com)
-- **GitHub**: [@YAALA-RUKNUDDIN](https://github.com/YAALA-RUKNUDDIN)
+- **Website:** [yaala.vercel.app](https://yaala.vercel.app)
+- **LinkedIn:** [linkedin.com/in/yaala-rukunuddin-226a0926b](https://www.linkedin.com/in/yaala-rukunuddin-226a0926b/)
+- **Email:** [yaalarukunuddin@gmail.com](mailto:yaalarukunuddin@gmail.com)
+- **GitHub:** [github.com/YAALA-RUKNUDDIN](https://github.com/YAALA-RUKNUDDIN)
 
 ---
 
-<div align="center">
-  <sub>Designed & engineered with intention by <b>Yaala</b> · © 2026</sub>
-</div>
+## License
+
+All rights reserved. © 2026 Yaala.
